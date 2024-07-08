@@ -1,0 +1,10 @@
+{
+  "title": "$:/plugins/uzvg/BlogSuite",
+  "name": "BlogSuite",
+  "author": "uzvg",
+  "description": "A set of tools for writing and publishing blogs.",
+  "plugin-type": "plugin",
+  "source": "https://github.com/uzvg/BlogSuite",
+  "version": "0.0.1",
+  "list": "readme license"
+}

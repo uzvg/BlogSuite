@@ -1,0 +1,6 @@
+title: $:/plugins/uzvg/twSetPublicTiddler/readme
+type: text/vnd.tiddlywiki
+
+! twSetPublicTiddler
+
+An easy plugin to set a tiddler whether or not to be published.

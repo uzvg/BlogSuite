@@ -1,0 +1,9 @@
+{
+  "title": "$:/plugins/uzvg/twSetPublicTiddler",
+  "name": "twSetPublicTiddler",
+  "author": "uzvg",
+  "description": "An easy plugin to set a tiddler whether or not to be published.",
+  "plugin-type": "plugin",
+  "version": "0.0.1",
+  "list": "readme contents license"
+}
